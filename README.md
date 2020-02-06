@@ -1,0 +1,1 @@
+This is the second Home Task given to us to create a maven project using eclipse IDE. In reference to this, I had created a New Year Gift project which implements all the Object Oriented Programming concepts.
